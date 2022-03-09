@@ -1,0 +1,584 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    list-style: none;
+    text-decoration: none;
+}
+
+body{
+    margin: 0%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.cajon1{
+    margin: 0%;
+    width: 1903px;
+    background: #24282b;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0px 0px;
+}
+
+.listas{
+    display: flex;
+    padding: 35px 0px;
+    margin-left: 350px;
+}
+
+li a{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+a.inicio{
+    color: #1293d4;
+}
+
+a.nosotros{
+    color: #1293d4;
+}
+
+a.servicios{
+    color: #1293d4;
+}
+
+a.contacto{
+    color: #1293d4;
+}
+
+.principal_titulo{
+    color: white;
+}
+
+span{
+    color: #1293d4;
+}
+
+.superior {
+    width: 1903px;
+    height: 600px;
+}
+
+.img1{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+.titulo1 {
+    margin-top: -433px;
+    color: white;
+}
+
+#titulo_principal{
+    margin-top: 40px;
+    font-size: 60px;
+}
+
+#titulo_1{
+    margin-top: -24px;
+}
+
+.susbcribirse{
+    width: 1903px;
+    background: #24282b;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 242px;
+    align-items: center;
+    padding: 20px 0px;
+}
+
+.susbcribirse1{
+    width: 1903px;
+    background: #24282b;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0px;
+    align-items: center;
+    padding: 30px 0px;
+}
+
+hr{
+    background-color: #1293d4;
+    border: none;
+    width: 1903px;
+    height: 5px;
+}
+
+.texto{
+    margin-right: -390px;
+    margin-left: 485px;
+}
+
+input{
+    padding: 7px 5px;
+}
+
+.susb{
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 200px;
+}
+
+.boton0{
+    color: #ffffff;
+    background-color: #e8491d;
+    border: none;
+    font-size: 14px;
+    padding: 10px 25px;
+    margin-right: 210px;
+}
+
+.boton0:hover{
+    background-color: black;
+    color: #ffffff;
+    border: none;
+    font-size: 14px;
+    padding: 10px 25px;
+    margin-right: 210px;
+}
+
+.elflex1{
+    width: 1903px;
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}
+.cuadro1{
+    text-align: center;
+    width: 30%;
+    padding: 15px 15px;
+}
+
+.nombre{
+    margin: 0%;
+    width: 1903px;
+    background: #1293d4;
+    text-align: center;
+    color: #ffffff;
+    padding: 30px 0px;
+    margin-top: 60px;
+    font-size: 15px;
+}
+
+.nombre2{
+    margin: 0%;
+    width: 1903px;
+    background: #1293d4;
+    text-align: center;
+    color: #ffffff;
+    padding: 30px 0px;
+    margin-top: 12px;
+    font-size: 15px;
+}
+
+.nombre3{
+    margin: 0%;
+    width: 1903px;
+    background: #1293d4;
+    text-align: center;
+    color: #ffffff;
+    padding: 30px 0px;
+    margin-top: 25px;
+    font-size: 15px;
+}
+
+.nombre4{
+    margin: 0%;
+    width: 1903px;
+    background: #1293d4;
+    text-align: center;
+    color: #ffffff;
+    padding: 30px 0px;
+    margin-top: 25px;
+    font-size: 15px;
+}
+
+.texto_nosotros{
+    display: flex;
+    justify-content: space-between;
+}
+
+.servi {
+    margin-top: 30px;
+    margin-left: 30px;
+    font-size: 35px;
+}
+.noso{
+    padding: 14px 105px;
+    margin-left: 31px;
+}
+
+.noso2{
+    padding: 14px 105px;
+    margin-left: 31px;
+    margin-top: 25px;
+}
+
+.que{
+    padding: 50px 10px;
+    margin-right: 170px;
+    background-color: #35424a;
+    color: #ffffff;
+}
+
+.que2{
+    padding: 54px 15px;
+    margin-right: 170px;
+    background-color: #35424a;
+    color: #ffffff;
+}
+
+.que3{
+    padding: 25px 15px;
+    margin-right: 180px;
+    margin-top: 25px;
+    background-color: #35424a;
+    color: #ffffff;
+    height: 200px;
+    width: 530px;
+}
+
+.na{
+    display: flex;
+    flex-direction: column;
+}
+
+.na2{
+    display: flex;
+    flex-direction: column;
+    margin-left: 45px;
+}
+
+.parrafo{
+    padding: 13px 27px;
+    margin-left: 137px;
+    width: 945px;
+    margin-top: -50px;
+    background-color: #35424a;
+    color: #ffffff;
+}
+
+.parrafo2 {
+    padding: 0px 0px;
+    margin-left: 3px;
+    font-size: 17px;
+    width: 794px;
+    margin-top: 20px;
+}
+
+.img_noso{
+    margin-top: 10px;
+    margin-left: 137px;
+}
+
+.aja{
+    padding: 20px 20px;
+    margin-left: 31px;
+    margin-top: 25px;
+    background-color: #e6e6e6;
+}
+
+.todo{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+}
+
+.form{
+    display: flex;
+    justify-content: space-between;
+}
+
+.titulo_form{
+    width: 460px;
+}
+
+.formulario{
+    width: 597px;
+    margin: 63px 217px;
+    margin-top: 10px;
+}
+
+.que4{
+    padding: 25px 15px;
+    margin-right: 180px;
+    margin-top: 25px;
+    background-color: #35424a;
+    color: #ffffff;
+    height: 200px;
+    width: 530px;
+}
+
+.mapa{
+    width: 561px;
+    height: 377px;
+    margin-left: 1163px;
+    margin-top: -227px;
+}
+
+.boton{
+    color: #ffffff;
+    background-color: #e8491d;
+    border: none;
+    font-size: 14px;
+    padding: 10px 371px;
+    margin-right: 210px;
+}
+
+.boton:hover{
+    color: #ffffff;
+    background-color: black;
+    border: none;
+    font-size: 14px;
+    padding: 10px 371px;
+    margin-right: 210px;
+}
+
+.ingrese_datos{
+    padding: 10px 305px;
+}
+
+/* MEDIA QUERIES */
+
+@media screen and (max-width: 1366px){
+
+    .cajon1 {
+        width: 1349px;
+    }
+
+    .superior {
+        width: 1349px;
+        height: 600px;
+    }
+
+    hr {
+        width: 1349px;
+    }
+
+    .susbcribirse {
+        width: 1349px;
+    }
+
+    .texto {
+        margin-left: 130px;
+    }
+
+    .boton0 {
+        margin-right: 123px;
+    }
+
+    .boton0:hover{
+        margin-right: 123px;
+    }
+
+    .susb {
+        margin-left: 112px;
+    }
+
+    .elflex1 {
+        width: 1349px;
+    }
+
+    .nombre {
+        width: 1349px;
+    }
+
+    .susbcribirse1 {
+        width: 1349px;
+    }
+
+    .parrafo {
+        margin-top: 40px;
+    }
+
+    .todo {
+        margin-left: -20px;
+    }
+
+    .que3 {
+        padding: 19px 25px;
+        margin-left: 27px;
+        width: 268px;
+        height: 287px;
+    }
+
+    .nombre3 {
+        width: 1349px;
+    }
+
+    .formulario {
+        width: 574px;
+        margin: 47px 23px;
+        margin-top: 10px;
+    }
+
+    .que4 {
+        padding: 25px 6px;
+        margin-left: 214px;
+        width: 484px;
+    }
+
+    .mapa {
+        width: 458px;
+        height: 244px;
+        margin-left: 879px;
+        margin-top: -227px;
+    }
+    
+    .nombre4 {
+        width: 1349px;
+    }
+}
+
+@media screen and (max-width: 800px){
+
+    .cajon1 {
+        width: 800px;
+    }
+
+    .principal_titulo { 
+        margin-left: 24px;
+        font-size: 12px;
+    }
+
+    .listas {
+        padding: 25px 0px;
+        margin-left: 40px;
+    }
+
+    .superior {
+        width: 800px;
+        height: 400px;
+    }
+
+    hr {
+        width: 800px;
+    }
+
+    .susbcribirse {
+        width: 800px;
+        margin-top: 130px;
+        padding: 15px 0px;
+    }
+
+    .susbcribirse1 {
+        width: 800px;
+    }
+
+    .elflex1 {
+        width: 800px;
+        margin-top: 20px;
+    }
+
+    .nombre {
+        width: 800px;
+    }
+
+    .susb {
+        font-size: 13px;
+        margin-left: 37px;
+    }
+
+    .texto {
+        margin-right: -483px;
+        margin-left: -340px;
+    }
+
+    .boton0 {
+        padding: 10px 22px;
+        margin-right: 41px;
+    }
+
+    #titulo_principal {
+        margin-top: 174px;
+        font-size: 44px;
+    }
+
+    .noso {
+        margin: -27px;
+        margin-top: 23px;
+    }
+
+    .que {
+        padding: 50px 32px;
+        margin-right: 44px;
+        font-size: 15px;;
+    }
+
+    .parrafo {
+        padding: 12px 15px;
+        margin-left: 12px;
+        width: 747px;
+        margin-top: 27px;
+        font-size: 17px;
+    }
+
+    .img_noso {
+        margin-top: 10px;
+        margin-left: 0px;
+        width: 800px;
+    }
+
+    .nombre {
+        width: 800px;
+        margin-top: auto;
+    }
+
+    .na2 {
+        margin-left: -117px;
+    }
+
+    .aja {
+        margin-left: 17px;
+        margin-top: 15px;
+    }
+
+    .que3 {
+        padding: 17px 29px;
+        margin-left: -811px;
+        margin-top: 23px;
+        font-size: 20px;
+        width: 800px;
+    }
+
+    .nombre3 {
+        width: 800px;
+        padding: 24px 0px;
+        margin-top: 36px;
+    }
+
+    .formulario {
+        width: 192px;
+        margin: -412px 9px;
+        margin-top: 11px;
+    }
+
+    .que4 {
+        padding: 34px 41px;
+        margin-top: 560px;
+    }
+
+    .nombre4 {
+        width: 800px;
+        margin-top: 20px;
+    }
+
+    .servi {
+        margin-top: 344px;
+        margin-left: 52px;
+        font-size: 32px;
+    }
+
+    .mapa {
+        width: 437px;
+        height: 264px;
+        margin-left: 197px;
+        margin-top: 60px;
+    }
+}
