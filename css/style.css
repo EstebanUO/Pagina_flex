@@ -349,20 +349,20 @@ input{
 @media screen and (max-width: 1366px){
 
     .cajon1 {
-        width: 1349px;
+        width: 1366px;
     }
 
     .superior {
-        width: 1349px;
+        width: 1366px;
         height: 600px;
     }
 
     hr {
-        width: 1349px;
+        width: 1366px;
     }
 
     .susbcribirse {
-        width: 1349px;
+        width: 1366px;
     }
 
     .texto {
@@ -382,15 +382,15 @@ input{
     }
 
     .elflex1 {
-        width: 1349px;
+        width: 1366px;
     }
 
     .nombre {
-        width: 1349px;
+        width: 1366px;
     }
 
     .susbcribirse1 {
-        width: 1349px;
+        width: 1366px;
     }
 
     .parrafo {
@@ -409,7 +409,7 @@ input{
     }
 
     .nombre3 {
-        width: 1349px;
+        width: 1366px;
     }
 
     .formulario {
@@ -432,7 +432,7 @@ input{
     }
     
     .nombre4 {
-        width: 1349px;
+        width: 1366px;
     }
 }
 
@@ -535,13 +535,14 @@ input{
     }
 
     .aja {
-        margin-left: 17px;
+        margin-left: 139px;
         margin-top: 15px;
+        padding: 3px 0px;
     }
 
     .que3 {
         padding: 17px 29px;
-        margin-left: -811px;
+        margin-left: -634px;
         margin-top: 23px;
         font-size: 20px;
         width: 800px;
@@ -560,8 +561,9 @@ input{
     }
 
     .que4 {
-        padding: 34px 41px;
+        padding: 35px 96px;
         margin-top: 560px;
+        margin-left: auto;
     }
 
     .nombre4 {
@@ -570,8 +572,8 @@ input{
     }
 
     .servi {
-        margin-top: 344px;
-        margin-left: 52px;
+        margin-top: 382px;
+        margin-left: 460px;
         font-size: 32px;
     }
 
