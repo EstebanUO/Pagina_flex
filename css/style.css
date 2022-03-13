@@ -584,3 +584,160 @@ input{
         margin-top: 60px;
     }
 }
+
+@media screen and (max-width: 576px){
+
+    .cajon1 {
+        width: 576px;
+        justify-content: center;
+    }
+
+    .principal_titulo {
+        margin-left: 116px;
+        font-size: 9px;
+        margin-top: -45px;
+    }
+
+    .listas {
+        padding: 0px 0px;
+        margin-left: -276px;
+        margin-top: 62px;
+        font-size: 13px;
+    }
+
+    hr {
+        width: 100%;
+    }
+
+    #titulo_principal {
+        font-size: 35px;
+    }
+
+    #titulo_1 {
+        margin-top: -4px;
+        font-size: 12px;
+    }
+
+    .superior {
+        width: 576px;
+        height: 320px;
+    }
+
+    .susbcribirse {
+        width: 576px;
+        margin-top: 132px;
+        padding: 9px 0px;
+    }
+
+    .susb {
+        font-size: 9px;
+        margin-left: 37px;
+    }
+
+    .boton0 {
+        padding: 5px 16px;
+        margin-right: 35px;
+    }
+
+    .boton0:hover {
+        padding: 5px 16px;
+        margin-right: 35px;
+    }
+
+    input {
+        padding: 3px 6px;
+    }
+
+    .elflex1 {
+        width: 800px;
+        height: 800px;
+        margin-top: 234px;
+        margin-top: 20px;
+        flex-direction: column;
+        margin-left: 162px;
+    }
+
+    .nombre {
+        width: 100%;
+        margin-top: auto;
+    }
+
+    .susbcribirse1 {
+        width: 100%;
+    }
+
+    .que {
+        padding: 50px 46px;
+        margin-right: 44px;
+        font-size: 14px;
+    }
+
+    .parrafo {
+        width: 100%;
+        font-size: 15px;
+    }
+
+    .img_noso {
+        width: 100%;
+    }
+
+    .nombre {
+        width: 100%;
+    }
+
+    .parrafo {
+        width: 576px;
+        font-size: 15px;
+        margin-left: -5px;
+    }
+
+    .que3 {
+        margin-left: -394px;
+        font-size: 13px;
+        width: 576px;
+    }
+
+    .servi {
+        margin-top: 385px;
+        margin-left: 352px;
+        font-size: 32px;
+    }
+
+    .aja {
+        margin-left: 139px;
+        margin-top: 15px;
+        padding: 0px 0px;
+    }
+
+    .parrafo2 {
+        width: 576px;
+    }
+
+    .nombre3 {
+        width: 100%;
+    }
+
+    .que4 {
+        margin-left: -74px;
+        font-size: 11px;
+    }
+    
+
+    .mapa {
+        margin-left: 68px;
+    }
+
+    .ingrese_datos {
+        padding: 10px 200px;
+    }
+
+    .boton {
+        padding: 10px 265px;
+    }
+
+    .nombre4 {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+}
